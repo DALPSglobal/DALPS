@@ -12,9 +12,17 @@ Our ecosystem empowers organizations to:
 - 🔹 **Automate agreements and operational workflows**  
 - 🔹 **Streamline logistics, payments, and operations**  
 
-Payment and asset transfers are **processed automatically** according to DALPS rules. Transfers are **final and irrevocable**, ensuring **secure and reliable operations** for all participants.  
+Payment and asset transfer obligations between participants are **processed individually and automatically** according to the rules defined in DALPS. Transfers are **final and irrevocable once executed**, ensuring **secure and reliable operations** for all participants.  
 
-Trusted by **Fortune 500 companies** and emerging enterprises alike, DALPS leads in the evolving **digital economy**.  
+With a proven track record and cutting-edge blockchain technology, DALPS platforms are trusted by **Fortune 500 companies** and emerging enterprises alike, leading the way in the evolving **digital economy**.  
+
+---
+
+## 🌐 Discover DALPS Services & Products
+
+Learn more about our offerings, solutions, and platform capabilities:  
+- **Official Website:** [dalps.org](https://dalps.org)  
+- Explore **enterprise solutions**, **blockchain infrastructure**, and **automation tools** directly on our site.  
 
 ---
 
@@ -58,19 +66,11 @@ We maintain a clear separation between **public developer resources** and **priv
 ## 🤝 Contributing  
 
 We welcome contributions from developers, partners, and enterprise collaborators.  
-Check **[`dalps-community`](https://github.com/dalpsglobal/dalps-community)** for guidelines, templates, and discussions.  
+Check **[`dalps-community`](https://github.com/dalpsglobal/dalps-community)** for contribution guidelines, templates, and discussions.  
 
 ---
 
-## 🌐 Learn More  
-
-- Website: [dalps.org](https://dalps.org)  
-- GitHub: [https://github.com/dalpsglobal](https://github.com/dalpsglobal)  
-- Contact: contact@dalps.org  
-
----
-
-### 📌 Recommended Pins  
+## 📌 Recommended Pins  
 
 Pin the most critical public repos for clarity:  
 
@@ -78,6 +78,8 @@ Pin the most critical public repos for clarity:
 2. `dalps-sdk` ✅  
 3. `dalps-examples` ✅  
 4. `dalps-community` ✅  
+
+This ensures **instant credibility** for visitors, showing DALPS as a **professional, blockchain-based platform** ready for integration and adoption.  
 
 ---
 
