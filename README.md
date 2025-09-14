@@ -1,5 +1,3 @@
-# DALPS
-
 # DALPS – Digital Automated Logistics and Payment Service 🚀
 
 [![Website](https://img.shields.io/badge/Website-dalps.org-blue)](https://dalps.org)
